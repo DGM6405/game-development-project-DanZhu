@@ -1,0 +1,12 @@
+google drive link:
+
+https://drive.google.com/open?id=185V-BdCd3Aoii-ui-lpHiGxtYA-238TD
+
+* Please open file version 0.0.3
+
+Update:
+1. Now we have three kinds of enemies: 
+    tomb robber (hp 20, escape hp 10, atk 1)
+    warlock (hp 10, escape hp 5, atk 1. skill: use an amulet to seal statue and destroy it's soul)
+    digger (hp 8, escape hp 2, atk 1. skill: dig any traps)
+2. Now we have new interface (not finished, still building)
